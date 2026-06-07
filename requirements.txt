@@ -1,4 +1,4 @@
-# Localia RAG — dépendances (toutes pures Python, aucune compilation)
+# Localia RAG - dependencies (all pure Python, no compilation)
 gradio>=6.0,<7
 numpy>=1.24
 requests>=2.28

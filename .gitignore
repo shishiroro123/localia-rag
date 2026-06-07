@@ -1,15 +1,15 @@
-# environnement Python
+# Python environment
 .venv/
 __pycache__/
 *.pyc
 
-# index généré localement (données utilisateur)
+# locally generated index (user data)
 .index/
 
 # your personal documents (we only keep the sample)
 documents/*
 !documents/example.md
 
-# divers
+# misc
 .DS_Store
 Thumbs.db

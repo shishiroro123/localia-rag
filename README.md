@@ -107,7 +107,7 @@ A classic, minimal RAG pipeline — kept deliberately small and readable:
 5. **Answer** — those chunks are handed to the chat model with a strict
    instruction: *answer only from this context, and cite the source.*
 
-The whole engine is ~250 lines in [`rag.py`](rag.py). Read it, fork it, tweak it.
+The whole engine is ~320 lines in [`rag.py`](rag.py). Read it, fork it, tweak it.
 
 ## Privacy
 
