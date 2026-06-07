@@ -1,0 +1,15 @@
+# environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# index généré localement (données utilisateur)
+.index/
+
+# your personal documents (we only keep the sample)
+documents/*
+!documents/example.md
+
+# divers
+.DS_Store
+Thumbs.db
